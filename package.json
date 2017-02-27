@@ -1,0 +1,10 @@
+{
+  "name": "angular-ui-bootstrap-pagination",
+  "version": "0.12.0",
+  "description": "Angular UI Bootstrap Pagination",
+  "main": "pagination.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udemy/angular-ui-bootstrap-pagination.git"
+  }
+}
